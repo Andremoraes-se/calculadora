@@ -11,6 +11,8 @@ Projeto desenvolvido para realizar calculos e consultar os calculos realizados
 
 - Banco de dados MariaDB v11.1.0
 
+- Projeto está utilizando uma ORM Sequelize ja gera a tabela sozinha, só precisa cria o banco.
+
 - verifique se o caminho do projeto esta no local certo. 
 
 - Basta executar o seguinte comando para o projeto começa a funcionar. 
